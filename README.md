@@ -15,4 +15,6 @@ Libraries and Frameworks: pandas, numpy, matplotlib, sklearn
 
 In this project 4 ML algorithms were used, those are: RandomForestClassifier, GaussianNB, DecisionTreeClassifier, KNeighborsClassifier. The GaussianNB gave the best result among other with accuracy score of 83 
 
+![result_sentiment](https://github.com/hjuraev31/loan_prediction/blob/main/accuracy_scores.png?raw=true)
+
 
